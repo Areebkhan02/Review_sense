@@ -1,6 +1,6 @@
 # WhatsApp Review Management System
 
-A WhatsApp-based system for restaurant managers to approve and revise AI-generated responses to customer reviews.
+A WhatsApp-based system for restaurant managers & Owners to approve and revise AI-generated responses to customer reviews.
 
 ## Features
 
